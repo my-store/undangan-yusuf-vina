@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/undangan-yusuf-vina/static/css/main.5bda670e.css",
-    "main.js": "/undangan-yusuf-vina/static/js/main.85b4ddf4.js",
+    "main.js": "/undangan-yusuf-vina/static/js/main.d35e2008.js",
     "static/media/Christina-Perri-A-Thousand-Years.mp3": "/undangan-yusuf-vina/static/media/Christina-Perri-A-Thousand-Years.46806fefd2045e79a7a8.mp3",
     "static/media/Unknown-Starry-Night.mp3": "/undangan-yusuf-vina/static/media/Unknown-Starry-Night.0c07e203bfa741c46089.mp3",
     "static/media/Katy-Perry-Unconditionally.mp3": "/undangan-yusuf-vina/static/media/Katy-Perry-Unconditionally.8b0ff6f6c62a0b23c20b.mp3",
@@ -24,10 +24,10 @@
     "index.html": "/undangan-yusuf-vina/index.html",
     "static/media/heart.svg": "/undangan-yusuf-vina/static/media/heart.3c21e461574cec611adc47a5198a8dfb.svg",
     "main.5bda670e.css.map": "/undangan-yusuf-vina/static/css/main.5bda670e.css.map",
-    "main.85b4ddf4.js.map": "/undangan-yusuf-vina/static/js/main.85b4ddf4.js.map"
+    "main.d35e2008.js.map": "/undangan-yusuf-vina/static/js/main.d35e2008.js.map"
   },
   "entrypoints": [
     "static/css/main.5bda670e.css",
-    "static/js/main.85b4ddf4.js"
+    "static/js/main.d35e2008.js"
   ]
 }
